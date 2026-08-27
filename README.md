@@ -1,3 +1,8 @@
+This is a fork of the original Pokemon Heart and Soul, swapping out the female PC Kris for the Heart Gold/ Soul Silver PC Lyra
+All credit to the original HnS team for the ROM, and Kisirokitsune for the original spritework that I based things off.
+Original ROM repo: https://github.com/PokemonHnS-Development/pokehns-expansion
+Original Sprite Sheet: https://www.deviantart.com/kisirokitsune/art/HGSS-Girl-Completed-Sheet-136710154
+
 ![HnS Logo](HnS_Logo.png)
 
 # About `pokemonHnS-expansion`
