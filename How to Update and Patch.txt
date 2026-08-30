@@ -1,0 +1,8 @@
+run: 
+./create_patch.sh
+
+in terminal. Then run in retroarch: 
+PokeHnS-X.X.X-Lyra_test.gba
+
+and test for bugs + note version number to update patch file name with correct patch number
+add update link on https://www.reddit.com/r/PokemonROMhacks/comments/1sv00vj/lyra_sprites_for_pokemon_heart_and_soul_romhack/ to new patch
